@@ -4,6 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makkho&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makkho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Makkho)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Me
 <img src="https://github.com/Makkho/Makkho/blob/main/FAc-e1ZWQAAy_Bt.png" width="250" height="250" />
