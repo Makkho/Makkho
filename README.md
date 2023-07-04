@@ -7,7 +7,7 @@
 
 
 ### Me
-<img src="https://github.com/Makkho/Makkho/blob/main/FAc-e1ZWQAAy_Bt.png" witdh="144" />
+<img src="https://github.com/Makkho/Makkho/blob/main/FAc-e1ZWQAAy_Bt.png" width="250" height="250" />
 
 <!--
 **Makkho/Makkho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
