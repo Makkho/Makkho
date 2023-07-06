@@ -2,7 +2,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makkho&show_icons=true&theme=radical)
-[![Top Langs](src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Makkho&layout=compact&langs_count=16&theme=dracula"/>)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Makkho)](https://github.com/anuraghazra/github-readme-stats)
 
