@@ -21,3 +21,5 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Makkho&show_icons=true&locale=en&theme=dark" alt="Makkho" /></p>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Makkho)](https://github.com/anuraghazra/github-readme-stats)
+
