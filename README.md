@@ -15,7 +15,5 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makkho&layout=compact&theme=tokyonight" alt=Makkho />
 
-<p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Makkho&show_icons=true&locale=en&theme=dark" alt="Makkho" /></p>
-
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Makkho)](https://github.com/anuraghazra/github-readme-stats)
 
